@@ -6,6 +6,10 @@
  * or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
  *
  */
+
+// este comentario es una modificacion de ejemplo para Git
+
+
 package org.francho.java.calculadora;
 
 import java.awt.BorderLayout;
